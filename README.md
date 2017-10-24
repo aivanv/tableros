@@ -1,6 +1,6 @@
 # Tableros
-"Se enseña a crear tablero que ayuden a gestionar tus actividades de forma óptima.,
-Los tableros deben contar con la siguientes listas"
+Se enseña a crear tablero que ayuden a gestionar tus actividades de forma óptima.
+Los tableros deben contar con la siguientes listas
 
 1. Backlog
 2. ToDo
